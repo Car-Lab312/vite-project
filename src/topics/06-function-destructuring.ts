@@ -20,7 +20,7 @@
 // }
 
 // const shoppingCart = [phone, tablet];
-// const tax = 0.15;
+// const tax = 0.15;.
 
 
 
