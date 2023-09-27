@@ -13,5 +13,18 @@
   },
   "dependencies": {
     "underscore": "^1.13.6"
-  }
+  },
+  "description": "Pasos para ejecutar proyecto:",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Car-Lab312/vite-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Car-Lab312/vite-project/issues"
+  },
+  "homepage": "https://github.com/Car-Lab312/vite-project#readme"
 }
